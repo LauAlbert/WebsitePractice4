@@ -1,0 +1,11 @@
+.navbar .nav-link {
+  font-size: 14px;
+  text-transform: uppercase;
+  padding-left: 1em !important;
+  padding-right: 1em !important; }
+
+.navbar .nav-item:hover {
+  border-bottom: 3px solid #fff; }
+
+.navbar .nav-item.active {
+  border-bottom: 3px solid red; }
